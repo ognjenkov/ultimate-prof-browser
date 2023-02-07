@@ -96,7 +96,7 @@ function App() {
               return (
                 <div className='pojedinacniProfesor' key={profesor._id} >
                   <a href={prof_link_2} target="_blank">
-                    <img className='profImg' src={img_link_2} alt="alt" onError={(e) => (e.target as HTMLImageElement).src="http://www.fon.bg.ac.rs/wp-content/uploads/nastavnici/missing_teacher.png"} />
+                    <img className='profImg' src={img_link_2} alt="alt" onError={(e) => e.target.src="http://www.fon.bg.ac.rs/wp-content/uploads/nastavnici/missing_teacher.png"} />
                   </a>
                   <div >
                     <p className='profesorInfo'>{profesor.ime} {profesor.prezime}</p>
