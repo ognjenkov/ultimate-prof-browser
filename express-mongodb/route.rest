@@ -1,0 +1,35 @@
+GET http://localhost:3000/professors
+
+###
+
+GET http://localhost:3000/professors/6378c5c8d04825be72e8b259
+
+###
+
+POST http://localhost:3000/professors/
+Content-Type: application/json
+
+{
+    "ime":"Vesna",
+    "prezime":"Damnjanovic",
+    "katedra":["Marketing menadzment i odnosi s javnoscu"],
+    "rank":["Redovni profesor"],
+    "email": "damnjanovic.vesna@fon.bg.ac.rs",
+    "kabinet": "209",
+    "vreme_konsultacija": "",
+    "prefix": "dr"
+}
+
+###
+
+DELETE http://localhost:3000/subscribers/6378b0504724115b486c3747
+
+###
+
+PATCH http://localhost:3000/subscribers/6378c5c8d04825be72e8b259
+Content-Type: application/json
+
+{
+    "name":"Izmenjena persona 2",
+    "subscribedToChannel":"Jhonny Boy izmenjen"
+}

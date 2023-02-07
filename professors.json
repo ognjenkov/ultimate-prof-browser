@@ -1,0 +1,206 @@
+[{
+  "_id": {
+    "$oid": "63a45d20aedf001ee91d171e"
+  },
+  "ime": "Dusan",
+  "prezime": "Starcevic",
+  "katedra": [
+    "Informacione tehnologije"
+  ],
+  "rank": [
+    "Profesor emeritus"
+  ],
+  "email": "starcevic.dusan@fon.bg.ac.rs",
+  "kabinet": "217",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45d5eaedf001ee91d1720"
+  },
+  "ime": "Nenad",
+  "prezime": "Anicic",
+  "katedra": [
+    "Informacioni sistemi"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "anicic.nenad@fon.bg.ac.rs",
+  "kabinet": "503",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45da9aedf001ee91d1722"
+  },
+  "ime": "Sladjan",
+  "prezime": "Babarogic",
+  "katedra": [
+    "Informacioni sistemi"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "sladjan.babarogic@fon.bg.ac.rs",
+  "kabinet": "210a",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45e2e6cdf34b177b668e0"
+  },
+  "ime": "Dusan",
+  "prezime": "Barac",
+  "katedra": [
+    "Elektronsko poslovanje"
+  ],
+  "rank": [
+    "Redovni profesor",
+    "Prodekan"
+  ],
+  "email": "sladjan.babarogic@fon.bg.ac.rs",
+  "kabinet": "303а",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45e986cdf34b177b668e2"
+  },
+  "ime": "Sladjana",
+  "prezime": "Benkovic",
+  "katedra": [
+    "Finansijski menadzment i racunovodstvo"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "benkovic.sladjana@fon.bg.ac.rs",
+  "kabinet": "402",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45ec96cdf34b177b668e4"
+  },
+  "ime": "Zorica",
+  "prezime": "Bogdanovic",
+  "katedra": [
+    "Elektronsko poslovanje"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "bogdanovic.zorica@fon.bg.ac.rs",
+  "kabinet": "303a",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45eea6cdf34b177b668e6"
+  },
+  "ime": "Vesna",
+  "prezime": "Bogojevic-Arsic",
+  "katedra": [
+    "Elektronsko poslovanje"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "bogojevic-arsic.vesna@fon.bg.ac.rs",
+  "kabinet": "206",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45f1e6cdf34b177b668e8"
+  },
+  "ime": "Milica",
+  "prezime": "Bulajic",
+  "katedra": [
+    "Operaciona istrazivanja i statistika"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "bulajic.milica@fon.bg.ac.rs",
+  "kabinet": "207",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45f666cdf34b177b668ea"
+  },
+  "ime": "Dragan",
+  "prezime": "Vasiljevic",
+  "katedra": [
+    "Racunarski integricana proizvodnja i logistika"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "vasiljevic.dragan@fon.bg.ac.rs",
+  "kabinet": "218",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45faa6cdf34b177b668ec"
+  },
+  "ime": "Sinisa",
+  "prezime": "Vlajic",
+  "katedra": [
+    "Softversko inzenjerstvo"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "vlajic.sinisa@fon.bg.ac.rs",
+  "kabinet": "403a",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45fe16cdf34b177b668ee"
+  },
+  "ime": "Dragan",
+  "prezime": "Vukmirovic",
+  "katedra": [
+    "Elektronsko poslovanje"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "vukmirovic.dragan@fon.bg.ac.rs",
+  "kabinet": "203",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a4600b6cdf34b177b668f0"
+  },
+  "ime": "Vesna",
+  "prezime": "Damnjanovic",
+  "katedra": [
+    "Marketing menadzment i odnosi s javnoscu"
+  ],
+  "rank": [
+    "Redovni profesor"
+  ],
+  "email": "damnjanovic.vesna@fon.bg.ac.rs",
+  "kabinet": "209",
+  "vreme_konsultacija": "",
+  "prefix": "dr",
+  "__v": 0
+}]
